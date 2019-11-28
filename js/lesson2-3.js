@@ -8,7 +8,7 @@ class Animal {
     return _age
   }
   set age (value) {
-    _age = value
+    _age  = value
   }
   eat () {
     console.log('i an eat food')
